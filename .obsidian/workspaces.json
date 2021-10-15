@@ -1,0 +1,170 @@
+{
+  "workspaces": {
+    "MAC": {
+      "main": {
+        "id": "50f7bba94511702c",
+        "type": "split",
+        "children": [
+          {
+            "id": "b4c97aef79cb5dd1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "63eec97d61d5bd47",
+        "type": "split",
+        "children": [
+          {
+            "id": "1df872116e513563",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "330bf4d8aa949fcc",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fc756873643f17ae",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "900acbe1da3afa0c",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "51fa8d4571a914c7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e77a746f60550e86",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 179
+      },
+      "right": {
+        "id": "1e4ca45ec343ccbd",
+        "type": "split",
+        "children": [
+          {
+            "id": "931bf271ba64c587",
+            "type": "tabs",
+            "dimension": 46.20938628158845,
+            "children": [
+              {
+                "id": "272e30e8212756bc",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "298805e3571b4562",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "c93ad46bd5cf53c0",
+            "type": "tabs",
+            "dimension": 24.067388688327316,
+            "children": [
+              {
+                "id": "75bea070dec22918",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "efeb540eb98ecd23",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "5b30d8d815e40ea6",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e43ca5c152ac4ce4",
+            "type": "tabs",
+            "dimension": 29.723225030084237,
+            "children": [
+              {
+                "id": "7b3e05c2b324448e",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 290
+      },
+      "active": "b4c97aef79cb5dd1"
+    }
+  },
+  "active": "MAC"
+}

@@ -1,0 +1,25 @@
+{
+  "obsidianCss": true,
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "showLineNumber": false,
+  "emacsyKeys": false,
+  "vimMode": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "Attachments",
+  "strictLineBreaks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "OutPuts",
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

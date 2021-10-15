@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 19,
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "tag-pill",
+    "vim-mode-cursor",
+    "bullet-line"
+  ]
+}
